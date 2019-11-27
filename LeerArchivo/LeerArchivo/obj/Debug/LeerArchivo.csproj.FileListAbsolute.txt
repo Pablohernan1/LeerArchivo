@@ -1,0 +1,9 @@
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe.config
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.exe
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\bin\Debug\LeerArchivo.pdb
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csprojAssemblyReference.cache
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.Form1.resources
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.Properties.Resources.resources
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.csproj.GenerateResource.cache
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.exe
+C:\Users\Pabli\source\repos\LeerArchivo\LeerArchivo\obj\Debug\LeerArchivo.pdb
